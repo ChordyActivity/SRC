@@ -1,0 +1,8 @@
+{
+  "name": "chordy-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.0",
+    "@coral-xyz/anchor": "^0.29.0"
+  }
+}
